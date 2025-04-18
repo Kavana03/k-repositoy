@@ -1,2 +1,2 @@
-# k-repositoy
+# k-repository
 This is my public repository
